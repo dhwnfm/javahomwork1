@@ -1,0 +1,39 @@
+body {
+    justify-content :center;
+    align-items:center;
+    border:solid 10px #DCDCDC;
+    width:500px;
+    height: 500px;
+}
+h3 {
+    font-size:23px;
+    text-align: left;
+    padding:20px;
+}
+p { 
+    margin-left: 10px;
+}
+span {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+    
+}
+
+button {
+    margin-top: 50px;
+    margin-left:10px; 
+    font-size:20px;
+    padding:20px 25px;
+    border:solid 2px #222;
+    background-color: #DCDCDC;
+    font-weight: bold;
+    border-radius: 10px;
+}
+button:hover {
+   transition: 0.2;
+   opacity: 0.5;
+}
+
